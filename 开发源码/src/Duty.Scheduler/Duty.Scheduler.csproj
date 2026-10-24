@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType><UseWPF>true</UseWPF>
+    <AssemblyName>排班系统</AssemblyName>
+    <ApplicationManifest>..\Duty.Intake\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Duty.UI\Duty.UI.csproj" />
+    <ProjectReference Include="..\Duty.Solver\Duty.Solver.csproj" />
+    <ProjectReference Include="..\Duty.Excel\Duty.Excel.csproj" />
+    <Content Include="..\..\..\排班系统\排班模板.xlsx" Link="排班模板.xlsx"
+             CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="Never" />
+  </ItemGroup>
+</Project>

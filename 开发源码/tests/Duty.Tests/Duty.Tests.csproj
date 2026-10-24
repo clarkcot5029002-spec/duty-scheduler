@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Duty.Core\Duty.Core.csproj" />
+    <ProjectReference Include="..\..\src\Duty.Solver\Duty.Solver.csproj" />
+    <ProjectReference Include="..\..\src\Duty.Excel\Duty.Excel.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup><ProjectReference Include="..\Duty.Core\Duty.Core.csproj" /></ItemGroup>
+</Project>

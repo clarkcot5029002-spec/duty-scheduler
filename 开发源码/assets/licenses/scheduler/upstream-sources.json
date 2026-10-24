@@ -1,0 +1,68 @@
+[
+  {
+    "File": "OR-TOOLS-LICENSE.txt",
+    "Source": "https://github.com/google/or-tools/blob/v9.15/LICENSE",
+    "GitBlob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+    "SHA256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30"
+  },
+  {
+    "File": "PROTOBUF-LICENSE.txt",
+    "Source": "https://github.com/protocolbuffers/protobuf/blob/v33.1/LICENSE",
+    "GitBlob": "19b305b00060a774a9180fb916c14b49edb2008f",
+    "SHA256": "6E5E117324AFD944DCF67F36CF329843BC1A92229A8CD9BB573D7A83130FEA7D"
+  },
+  {
+    "File": "UTF8-RANGE-LICENSE.txt",
+    "Source": "https://github.com/protocolbuffers/protobuf/blob/v33.1/third_party/utf8_range/LICENSE",
+    "GitBlob": "e59f14fa55de789cc2aa634e9788e0514be74611",
+    "SHA256": "02DE69B64FC36D9E938F418E52723E42F0B2B226D58A9CB3C8DCBDF7059F5074"
+  },
+  {
+    "File": "ABSEIL-LICENSE.txt",
+    "Source": "https://github.com/abseil/abseil-cpp/blob/20250814.1/LICENSE",
+    "GitBlob": "ccd61dcfe3dbcdf77a72794d7794b1e112a39e0b",
+    "SHA256": "C79A7FEA0E3CAC04CD43F20E7B648E5A0FF8FA5344E644B0EE09CA1162B62747"
+  },
+  {
+    "File": "RE2-LICENSE.txt",
+    "Source": "https://github.com/google/re2/blob/2025-08-12/LICENSE",
+    "GitBlob": "09e5ec1c74c187adc8fde6c74308c3492ef31f77",
+    "SHA256": "6040CDA75D90B1738292A631D89934C411EF7FFD543C4D6A1B7EDFC8EDF29449"
+  },
+  {
+    "File": "HIGHS-LICENSE.txt",
+    "Source": "https://github.com/ERGO-Code/HiGHS/blob/v1.12.0/LICENSE.txt",
+    "GitBlob": "8b73d26838407b7119c21c2e909db58ab76978a1",
+    "SHA256": "10B39DBA7B7731175F0705398B6DB4320B64ADD1BD2ED9F9EC5B512A9EF1BD95"
+  },
+  {
+    "File": "SCIP-LICENSE.txt",
+    "Source": "https://github.com/scipopt/scip/blob/v10.0.0/LICENSE",
+    "GitBlob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+    "SHA256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30"
+  },
+  {
+    "File": "SOPLEX-LICENSE.txt",
+    "Source": "https://github.com/scipopt/soplex/blob/v8.0.0/LICENSE",
+    "GitBlob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+    "SHA256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30"
+  },
+  {
+    "File": "ZLIB-LICENSE.txt",
+    "Source": "https://github.com/madler/zlib/blob/v1.3.1/LICENSE",
+    "GitBlob": "ab8ee6f71428c3e4646b12b64ad387cde33462e5",
+    "SHA256": "845EFC77857D485D91FB3E0B884AAA929368C717AE8186B66FE1ED2495753243"
+  },
+  {
+    "File": "BOOST-LICENSE.txt",
+    "Source": "https://github.com/boostorg/boost/blob/boost-1.87.0/LICENSE_1_0.txt",
+    "GitBlob": "36b7cd93cdfbac762f5be4c6ce276df2ea6305c2",
+    "SHA256": "C9BFF75738922193E67FA726FA225535870D2AA1059F91452C411736284AD566"
+  },
+  {
+    "File": "OR-TOOLS-DEPENDENCY-SOURCES.txt",
+    "Source": "https://github.com/google/or-tools/blob/v9.15/cmake/dependencies/CMakeLists.txt",
+    "GitBlob": "662113028988e98318c8357b1f3c58c8bc30510b",
+    "SHA256": "CE090F1BCEC6CF8AFE400F683459B421C6A8255251A5F929574E1D4EAA4607FF"
+  }
+]
